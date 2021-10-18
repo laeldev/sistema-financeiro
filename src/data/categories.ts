@@ -13,7 +13,7 @@ export const categories: Category = {
         color: 'brown', 
         expense: true
     },
-    Salary:
+    salary:
     { 
         title: 'Salario', 
         color: 'green', 
